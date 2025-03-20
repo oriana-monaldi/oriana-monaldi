@@ -3,18 +3,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/oriana-i-143588119" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages:</h3>
-<table align="center">
+<table >
   <tr>
-    <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
+    <td style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
       <br>Go
     </td>
-    <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
+    <td  style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
       <br>HTML (Markup)
     </td>
@@ -34,7 +34,7 @@
 </table>
 
 <h3 align="left">Databases:</h3>
-<table align="center">
+<table>
   <tr>
     <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
@@ -52,7 +52,7 @@
 </table>
 
 <h3 align="left">Tools:</h3>
-<table align="center">
+<table>
   <tr>
     <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
@@ -74,7 +74,7 @@
 </table>
 
 <h3 align="left">Frameworks & Libraries:</h3>
-<table align="center">
+<table>
   <tr>
     <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>

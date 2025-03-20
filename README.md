@@ -71,12 +71,6 @@
       <br>Linux
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
-      <br>Markdown
-    </td>
-  </tr>
 </table>
 
 <h3 align="left">Frameworks & Libraries:</h3>

@@ -17,7 +17,7 @@
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-      <br>HTML5 (Markup)
+      <br>HTML5
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -70,6 +70,12 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
       <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
+      <br>Markdown
     </td>
   </tr>
 </table>

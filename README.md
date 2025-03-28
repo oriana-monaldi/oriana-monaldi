@@ -14,10 +14,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
       <br>Go
     </td>
-    <td  style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-      <br>HTML (Markup)
-    </td>
     <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
       <br>JavaScript

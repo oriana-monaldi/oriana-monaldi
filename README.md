@@ -68,7 +68,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50" /><br>React Native
     </td>
     <td style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50" /><br>TailwindCSS
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS" width="50" height="50" /><br>TailwindCSS
     </td>
     <td style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center;">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" /><br>Figma

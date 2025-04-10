@@ -80,10 +80,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50" />
       <br>React Native
     </td>
-    <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
-      <img src="https://upload.vectorlogo.zone/logos/tailwindcss/images/0e4f5cb4-1c7d-44d1-b77f-07c3f37e46df.svg" alt="TailwindCSS" width="50" height="50" />
-      <br>TailwindCSS
-    </td>
+  <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50" />
+  <br>TailwindCSS
+</td>
+
     <td align="center" style="width: 100px; height: 100px; padding: 10px; border: 2px solid #ccc; text-align: center; display: flex; justify-content: center; align-items: center;">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
       <br>Figma
